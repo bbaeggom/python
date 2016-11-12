@@ -5,6 +5,7 @@
 * git 설치
 * python 설치
 * 아래 명령어를 git bash로 실행하세요
+
 ** 'git config --global user.name "user name"'
 ** 'git config --global user.email "email.address"'
 
